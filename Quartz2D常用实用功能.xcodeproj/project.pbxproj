@@ -13,6 +13,13 @@
 		0DC202531C3F740600E96A5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DC202511C3F740600E96A5F /* Main.storyboard */; };
 		0DC202551C3F740600E96A5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DC202541C3F740600E96A5F /* Assets.xcassets */; };
 		0DC202581C3F740600E96A5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DC202561C3F740600E96A5F /* LaunchScreen.storyboard */; };
+		0DC202651C3F7F6C00E96A5F /* UIImage+Expansion.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DC202641C3F7F6C00E96A5F /* UIImage+Expansion.m */; };
+		0DC2026C1C3FD53800E96A5F /* Quartz 2D  - 1.概览.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0DC202671C3FD53800E96A5F /* Quartz 2D  - 1.概览.webarchive */; };
+		0DC2026D1C3FD53800E96A5F /* Quartz 2D － 2.图形上下文(Graphics Contexts).webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0DC202681C3FD53800E96A5F /* Quartz 2D － 2.图形上下文(Graphics Contexts).webarchive */; };
+		0DC2026E1C3FD53800E96A5F /* Quartz 2D － 4.颜色和颜色空间.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0DC202691C3FD53800E96A5F /* Quartz 2D － 4.颜色和颜色空间.webarchive */; };
+		0DC2026F1C3FD53800E96A5F /* Quartz 2D － 5.变换(Transforms).webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2026A1C3FD53800E96A5F /* Quartz 2D － 5.变换(Transforms).webarchive */; };
+		0DC202701C3FD53800E96A5F /* Quartz 2D － 7.阴影(Shadows).webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2026B1C3FD53800E96A5F /* Quartz 2D － 7.阴影(Shadows).webarchive */; };
+		0DC202721C3FD57000E96A5F /* Paths.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0DC202711C3FD57000E96A5F /* Paths.webarchive */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +33,14 @@
 		0DC202541C3F740600E96A5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DC202571C3F740600E96A5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DC202591C3F740600E96A5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DC202631C3F7F6C00E96A5F /* UIImage+Expansion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Expansion.h"; sourceTree = "<group>"; };
+		0DC202641C3F7F6C00E96A5F /* UIImage+Expansion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Expansion.m"; sourceTree = "<group>"; };
+		0DC202671C3FD53800E96A5F /* Quartz 2D  - 1.概览.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "Quartz 2D  - 1.概览.webarchive"; sourceTree = "<group>"; };
+		0DC202681C3FD53800E96A5F /* Quartz 2D － 2.图形上下文(Graphics Contexts).webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "Quartz 2D － 2.图形上下文(Graphics Contexts).webarchive"; sourceTree = "<group>"; };
+		0DC202691C3FD53800E96A5F /* Quartz 2D － 4.颜色和颜色空间.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "Quartz 2D － 4.颜色和颜色空间.webarchive"; sourceTree = "<group>"; };
+		0DC2026A1C3FD53800E96A5F /* Quartz 2D － 5.变换(Transforms).webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "Quartz 2D － 5.变换(Transforms).webarchive"; sourceTree = "<group>"; };
+		0DC2026B1C3FD53800E96A5F /* Quartz 2D － 7.阴影(Shadows).webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "Quartz 2D － 7.阴影(Shadows).webarchive"; sourceTree = "<group>"; };
+		0DC202711C3FD57000E96A5F /* Paths.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Paths.webarchive; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +82,9 @@
 				0DC202561C3F740600E96A5F /* LaunchScreen.storyboard */,
 				0DC202591C3F740600E96A5F /* Info.plist */,
 				0DC202481C3F740600E96A5F /* Supporting Files */,
+				0DC202631C3F7F6C00E96A5F /* UIImage+Expansion.h */,
+				0DC202641C3F7F6C00E96A5F /* UIImage+Expansion.m */,
+				0DC202661C3FD53800E96A5F /* Quartz 2D */,
 			);
 			path = "Quartz2D常用实用功能";
 			sourceTree = "<group>";
@@ -77,6 +95,19 @@
 				0DC202491C3F740600E96A5F /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0DC202661C3FD53800E96A5F /* Quartz 2D */ = {
+			isa = PBXGroup;
+			children = (
+				0DC202711C3FD57000E96A5F /* Paths.webarchive */,
+				0DC202671C3FD53800E96A5F /* Quartz 2D  - 1.概览.webarchive */,
+				0DC202681C3FD53800E96A5F /* Quartz 2D － 2.图形上下文(Graphics Contexts).webarchive */,
+				0DC202691C3FD53800E96A5F /* Quartz 2D － 4.颜色和颜色空间.webarchive */,
+				0DC2026A1C3FD53800E96A5F /* Quartz 2D － 5.变换(Transforms).webarchive */,
+				0DC2026B1C3FD53800E96A5F /* Quartz 2D － 7.阴影(Shadows).webarchive */,
+			);
+			path = "Quartz 2D";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,7 +167,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DC202701C3FD53800E96A5F /* Quartz 2D － 7.阴影(Shadows).webarchive in Resources */,
+				0DC2026D1C3FD53800E96A5F /* Quartz 2D － 2.图形上下文(Graphics Contexts).webarchive in Resources */,
 				0DC202581C3F740600E96A5F /* LaunchScreen.storyboard in Resources */,
+				0DC2026E1C3FD53800E96A5F /* Quartz 2D － 4.颜色和颜色空间.webarchive in Resources */,
+				0DC2026F1C3FD53800E96A5F /* Quartz 2D － 5.变换(Transforms).webarchive in Resources */,
+				0DC2026C1C3FD53800E96A5F /* Quartz 2D  - 1.概览.webarchive in Resources */,
+				0DC202721C3FD57000E96A5F /* Paths.webarchive in Resources */,
 				0DC202551C3F740600E96A5F /* Assets.xcassets in Resources */,
 				0DC202531C3F740600E96A5F /* Main.storyboard in Resources */,
 			);
@@ -152,6 +189,7 @@
 				0DC202501C3F740600E96A5F /* ViewController.m in Sources */,
 				0DC2024D1C3F740600E96A5F /* AppDelegate.m in Sources */,
 				0DC2024A1C3F740600E96A5F /* main.m in Sources */,
+				0DC202651C3F7F6C00E96A5F /* UIImage+Expansion.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
